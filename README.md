@@ -48,6 +48,7 @@ uk ∈ R := n
 Rudder angle, [deg]
 
 References:
+
 Dalen and Ruscio (2016):  https://www.mic-journal.no/PDF/2016/MIC-2016-1-4.pdf
 
 Dalen and Ruscio (2019):  https://www.mic-journal.no/PDF/2019/MIC-2019-4-2.pdf
